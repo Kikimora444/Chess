@@ -2,7 +2,7 @@ body{
   text-size:150%; text-color:#000055; background-image:url("https://st4.depositphotos.com/2060785/29342/v/600/depositphotos_293424242-stock-illustration-the-chess-board-is-brown.jpg"); background-repeat:no-repeat; filter:blur(4px);
 }
 #block{
-  background-color:#EEEEEE; padding:10px;
+  background-color:#EEEEEE; padding:10px; filter:blur(0px);
 #navigation {
 	float:left; width:100px;
 }
