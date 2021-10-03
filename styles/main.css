@@ -2,7 +2,7 @@
 	float:left; width:10%;
 }
 body{
-  text-size:150%; text-color:#000055; background-color:#14150C; background-repeat:no-repeat; background-size:100%; float:right; width:90%
+  text-size:150%; text-color:#000055; background-color:#14150C; background-repeat:no-repeat; background-size:100%;
 }
 #block{
-  background-color:#EEEEEE; margin:10px; border:1px; border-color:#000000;
+  background-color:#EEEEEE; margin:10px; border:1px; border-color:#000000;  float:right; width:90%
