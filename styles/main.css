@@ -1,8 +1,8 @@
 body{
-  text-size:150%; text-color:#000055; background-image:url("https://st4.depositphotos.com/2060785/29342/v/600/depositphotos_293424242-stock-illustration-the-chess-board-is-brown.jpg"); background-size:310%; background-repeat:no-repeat;
+  text-size:150%; text-color:#000055; background-image:url("https://st4.depositphotos.com/2060785/29342/v/600/depositphotos_293424242-stock-illustration-the-chess-board-is-brown.jpg"); background-size:auto; background-repeat:no-repeat;
 }
 #block{
-  background-color:#aaaaaa;
+  background-color:#aaaaaa; padding:10px;
 #navigation {
 	float:left; width:100px;
 }
